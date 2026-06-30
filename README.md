@@ -1,16 +1,29 @@
-# Muhammad Hussain
+# 👋 Hi, I'm Muhammad!
 
-BSc Computer Science with Industrial Experience · Queen Mary University of London
+Welcome to my GitHub! I'm a Computer Science student at Queen Mary University of London, building across iOS, web, and machine learning. I like turning ideas into working products — from native iOS apps to web platforms and ML experiments — and I'm always chasing the next thing to learn.
 
-I build across iOS, web, and machine learning, and I like turning ideas into working products — from native iOS apps to web platforms and machine-learning experiments. Alongside my studies I'm involved in the Queen Mary Machine Learning Society and the university's iSoc.
+![Profile views](https://komarev.com/ghpvc/?username=mh-husssain&color=blueviolet)
 
-## Technologies
+## 🌟 About Me
 
-**Languages:** Swift · Python · TypeScript · JavaScript · HTML / CSS
-**Focus areas:** iOS development · Web development · Machine learning
-**Tools:** Git · Xcode · Jupyter
+```json
+{
+  "Education": "BSc Computer Science with Industrial Experience @ Queen Mary University of London",
+  "Focus": ["iOS Development", "Web Development", "Machine Learning"],
+  "Societies": ["Queen Mary Machine Learning Society", "QMUL iSoc"],
+  "Currently": "Building iOS and web projects, and exploring machine learning"
+}
+```
 
-## Connect
+## 🛠️ Tech Stack
 
-- LinkedIn — https://www.linkedin.com/in/muhammad-h-hussain/
-- Email — inquiries.muhammadhishamhussain@gmail.com
+![My Skills](https://skillicons.dev/icons?i=swift,python,ts,js,html,css,git)
+
+## 📊 GitHub Stats
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mh-husssain&layout=compact&theme=radical)](https://github.com/mh-husssain)
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-h-hussain/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inquiries.muhammadhishamhussain@gmail.com)
