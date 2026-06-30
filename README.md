@@ -1,16 +1,16 @@
-## Hi there 👋
+# Muhammad Hussain
 
-<!--
-**mh-husssain/mh-husssain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc Computer Science with Industrial Experience · Queen Mary University of London
 
-Here are some ideas to get you started:
+I build across iOS, web, and machine learning, and I like turning ideas into working products — from native iOS apps to web platforms and machine-learning experiments. Alongside my studies I'm involved in the Queen Mary Machine Learning Society and the university's iSoc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+**Languages:** Swift · Python · TypeScript · JavaScript · HTML / CSS
+**Focus areas:** iOS development · Web development · Machine learning
+**Tools:** Git · Xcode · Jupyter
+
+## Connect
+
+- LinkedIn — https://www.linkedin.com/in/muhammad-h-hussain/
+- Email — inquiries.muhammadhishamhussain@gmail.com
