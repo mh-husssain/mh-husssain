@@ -4,22 +4,33 @@
 
 **BSc Computer Science with Industrial Experience — Queen Mary University of London**
 
-I'm a developer who enjoys working across domains: shipping native iOS apps, building for the web, and experimenting with machine learning. I like turning rough ideas into things people can actually use, and I'm at my best when I'm learning something new along the way.
+I'm a software developer working across native iOS, web, and machine learning. I focus on building reliable, well-structured applications, and I enjoy taking projects from initial concept through to a finished, usable product.
 
-### What I build
+## What I build
 
-- **iOS** — native apps in Swift, focused on clean, practical tools
-- **Web** — front-ends and full sites with TypeScript and HTML
-- **Machine learning** — hands-on experiments in Python, exploring data and models
+- **iOS** — native applications in Swift
+- **Web** — front-end and full-stack development with TypeScript and modern frameworks
+- **Machine learning** — applied experiments and data work in Python
 
-### Tech I work with
+## Tech Stack
 
-![My tech stack](https://skillicons.dev/icons?i=swift,python,ts,js,html,css,git)
+**Languages**
 
-### Beyond code
+![Languages](https://skillicons.dev/icons?i=py,java,cs,kotlin,rust,php,js,ts,html,css)
 
-Active in the Queen Mary Machine Learning Society and QMUL's iSoc.
+**Frameworks**
 
-### Get in touch
+![Frameworks](https://skillicons.dev/icons?i=fastapi,django,dotnet)
 
-[LinkedIn](https://www.linkedin.com/in/muhammad-h-hussain/) · [Email](mailto:inquiries.muhammadhishamhussain@gmail.com)
+**Tools**
+
+![Tools](https://skillicons.dev/icons?i=github,gitlab,docker,gcp,postman,rabbitmq)
+
+## Involvement
+
+Member of the Queen Mary Machine Learning Society and QMUL's iSoc.
+
+## Contact
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-h-hussain/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:inquiries.muhammadhishamhussain@gmail.com)
