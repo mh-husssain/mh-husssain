@@ -1,29 +1,25 @@
-# 👋 Hi, I'm Muhammad!
+<img align="right" src="https://komarev.com/ghpvc/?username=mh-husssain&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-Welcome to my GitHub! I'm a Computer Science student at Queen Mary University of London, building across iOS, web, and machine learning. I like turning ideas into working products — from native iOS apps to web platforms and ML experiments — and I'm always chasing the next thing to learn.
+# Muhammad Hussain
 
-![Profile views](https://komarev.com/ghpvc/?username=mh-husssain&color=blueviolet)
+**BSc Computer Science with Industrial Experience — Queen Mary University of London**
 
-## 🌟 About Me
+I'm a developer who enjoys working across domains: shipping native iOS apps, building for the web, and experimenting with machine learning. I like turning rough ideas into things people can actually use, and I'm at my best when I'm learning something new along the way.
 
-```json
-{
-  "Education": "BSc Computer Science with Industrial Experience @ Queen Mary University of London",
-  "Focus": ["iOS Development", "Web Development", "Machine Learning"],
-  "Societies": ["Queen Mary Machine Learning Society", "QMUL iSoc"],
-  "Currently": "Building iOS and web projects, and exploring machine learning"
-}
-```
+### What I build
 
-## 🛠️ Tech Stack
+- **iOS** — native apps in Swift, focused on clean, practical tools
+- **Web** — front-ends and full sites with TypeScript and HTML
+- **Machine learning** — hands-on experiments in Python, exploring data and models
 
-![My Skills](https://skillicons.dev/icons?i=swift,python,ts,js,html,css,git)
+### Tech I work with
 
-## 📊 GitHub Stats
+![My tech stack](https://skillicons.dev/icons?i=swift,python,ts,js,html,css,git)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mh-husssain&layout=compact&theme=radical)](https://github.com/mh-husssain)
+### Beyond code
 
-## 📫 Connect
+Active in the Queen Mary Machine Learning Society and QMUL's iSoc.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-h-hussain/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inquiries.muhammadhishamhussain@gmail.com)
+### Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/muhammad-h-hussain/) · [Email](mailto:inquiries.muhammadhishamhussain@gmail.com)
