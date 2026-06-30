@@ -2,7 +2,10 @@
 
 **BSc (Hons) Computer Science with Industrial Experience — Queen Mary University of London**
 
-I'm a software engineer focused on building reliable, well-structured systems across backend, full-stack, and cloud, with research interests in machine-learning interpretability and distributed systems. I enjoy taking projects from initial concept through to a finished, production-ready product.
+I'm a student of mathematics and computer science! My current experience is in building reliable, well-structured systems across backend, full-stack, and the cloud.
+I want to mature my learning journey into research around AI/Machine-Learning interpretability as well as optimising current solutions.
+
+I also freelance in forward deployment engineering, whereby I enjoy the honour architecting my clients' projects from an initial concept through to a finished, deployment-ready product.
 
 ## What I work on
 
@@ -53,8 +56,9 @@ I'm a software engineer focused on building reliable, well-structured systems ac
 `ServiceNow` · `Confluence` · `Power Automate` · `Excel` · `Teams` · `Slack`
 
 <br>
+<hr>
 
-## Contact
+## Interested in working together? <small><em>Let's share ideas!</em> 🙂
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:inquiries.muhammadhishamhussain@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-h-hussain/)
