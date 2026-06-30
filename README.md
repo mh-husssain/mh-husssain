@@ -7,7 +7,7 @@ I'm a software engineer focused on building reliable, well-structured systems ac
 ## What I work on
 
 - **Backend & API**
-- **Full-stack web**
+- **Full-stack & Native Applications**
 - **Cloud & DevOps**
 - **AI & Machine Learning**
 
