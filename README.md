@@ -1,6 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=mh-husssain&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
-# Muhammad Hussain
+# Muhammad Hussain <img align="right" src="https://komarev.com/ghpvc/?username=mh-husssain&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 **BSc (Hons) Computer Science with Industrial Experience — Queen Mary University of London**
 
